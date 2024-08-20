@@ -1,6 +1,9 @@
 {
     "title":"宝林说的个人博客",
     "subTitle":"宝林说的个人博客是一个专注分享科技最新资讯和挖掘和分享免费优质互联网资源",
+    "homeUrl":"http://mm.dohouniao.top",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
+    "bottomText":"转载请注明出处",
+    "GMEEK_VERSION":"last"    
 }
